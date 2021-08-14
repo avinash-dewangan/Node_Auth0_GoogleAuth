@@ -1,0 +1,4 @@
+ISSUER_BASE_URL={url}
+CLIENT_ID={client id}
+BASE_URL=http://localhost:3000
+SECRET=yoursecreate key
